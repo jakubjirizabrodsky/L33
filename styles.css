@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0px 0px;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+   
+}
+    p {
+  text-indent: 30px;
+}
+p {
+  padding: 20px; 
+}
+p {
+  font-size: 20px;
+}
+footer 
+{
+  text-align: center;
+  margin: 0px 0px;
+  font-size: 14px;
+  color: #242323;
+  background-color: bisque;
+  height: 8vh;
+  text-align: center;
+
+
+}
+
+header {
+  background-color: bisque;
+  color:#242323 ;
+  padding: 10px 0;
+  margin: 0px 0px;
+  height: 10vh;
+  font-size: x-large;
+}
+
